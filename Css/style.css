@@ -1,0 +1,80 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-image: url(/Img/pexels-jeremy-bishop-2397414.jpg);
+    background-size: cover;
+}
+.banner-column{
+    background-color:#7952B3 ;
+}
+.navbar-container{
+    top: 0%;
+    background-color: rgb(22, 20, 20);
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: rgb(38, 175, 175);
+}
+
+.education-container{
+    background-color:rgb(179, 172, 172) ;
+}
+.bg-redtype{
+    background-color: rgb(241, 77, 77)
+
+}
+.bg-redtype:hover{
+    color: black!important;
+}
+.redtypecolor{
+    color:rgb(241, 77, 77) ;
+}
+.circle-edu{
+    background-color: rgb(241, 77, 77);
+    width: 100px;
+    height: 100px;
+    border-radius:50% ;
+}
+
+.project-container{
+    background-color: #665580;
+}
+.form-container{
+    background-color: rgb(65, 70, 75);
+
+}
+.inner-form{
+    background-color: #41464B;
+}
+
+.inner-form:hover{
+    background-color: rgb(248, 244, 241);
+}
+
+.footer{
+    background-color: rgb(52, 243, 243);
+}
+
+.footer,em{
+    font-size:25px;
+}
+.footer,p{
+   font-size: medium;
+}
+
+.circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+    color:rgb(52, 243, 243);
+}
+.circle:hover{
+    background-color: #41464B;
+}
