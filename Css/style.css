@@ -16,7 +16,7 @@ body{
     z-index: 2;
 }
 .about-container{
-    background-color: rgb(89, 236, 236);
+    background-color: rgb(38, 175, 175);
 }
 
 .education-container{
@@ -41,6 +41,10 @@ body{
 
 .project-container{
     background-color: #665580;
+}
+
+.gallery-container{
+    background-color: rgb(221, 85, 85);
 }
 .form-container{
     background-color: rgb(65, 70, 75);
